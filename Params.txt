@@ -1,0 +1,13 @@
+#Input Parameters for the FoF algorithm
+
+#cosmology and Survey Properties
+h 		0.73
+MagLim		11.75 
+vf		1000.
+red_start	300.
+red_end 	300000.
+
+#Shecter Params
+alpha		-1.02
+M_star		-24.2
+Phi_star	0.0108			
